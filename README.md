@@ -15,4 +15,13 @@ with their desired musical characteristics.
 
 ### Current Development Status:
 
-    We have successfully implemented the foundational framework for MIDI file generation, establishing a solid base. Currently, the note creation process relies on pure randomization. However, our upcoming development phase will prioritize refining this aspect by incorporating limitations and controlled algorithms into the note generation process. This strategic approach will enhance the precision and musicality of the generated MIDI notes, ensuring a more refined and tailored output. 
+We have successfully implemented the foundational framework for 
+MIDI file generation,establishing a solid base. Currently, the 
+note creation process relies on pure randomization. However, our 
+upcoming development phase will prioritize refining this aspect 
+by incorporating limitations and controlled algorithms into the 
+note generation process. This strategic approach will enhance 
+the precision and musicality of the generated MIDI notes, ensuring 
+a more refined and tailored output. 
+
+Updated: 7.18.23
